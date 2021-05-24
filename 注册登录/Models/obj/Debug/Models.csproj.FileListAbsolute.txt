@@ -1,0 +1,12 @@
+E:\Form\Models\bin\Debug\Models.dll
+E:\Form\Models\bin\Debug\Models.pdb
+E:\Form\Models\obj\Debug\Models.csprojAssemblyReference.cache
+E:\Form\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\Form\Models\obj\Debug\Models.dll
+E:\Form\Models\obj\Debug\Models.pdb
+F:\Form\Models\bin\Debug\Models.dll
+F:\Form\Models\bin\Debug\Models.pdb
+F:\Form\Models\obj\Debug\Models.csprojAssemblyReference.cache
+F:\Form\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+F:\Form\Models\obj\Debug\Models.dll
+F:\Form\Models\obj\Debug\Models.pdb

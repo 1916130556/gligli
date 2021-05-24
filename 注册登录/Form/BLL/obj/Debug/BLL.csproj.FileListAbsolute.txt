@@ -1,0 +1,11 @@
+E:\Form\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Form\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Form\BLL\bin\Debug\BLL.dll
+E:\Form\BLL\bin\Debug\BLL.pdb
+E:\Form\BLL\bin\Debug\DAL.dll
+E:\Form\BLL\bin\Debug\Models.dll
+E:\Form\BLL\bin\Debug\DAL.pdb
+E:\Form\BLL\bin\Debug\Models.pdb
+E:\Form\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Form\BLL\obj\Debug\BLL.dll
+E:\Form\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,6 @@
+E:\Form\Models\bin\Debug\Models.dll
+E:\Form\Models\bin\Debug\Models.pdb
+E:\Form\Models\obj\Debug\Models.csprojAssemblyReference.cache
+E:\Form\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\Form\Models\obj\Debug\Models.dll
+E:\Form\Models\obj\Debug\Models.pdb
